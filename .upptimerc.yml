@@ -9,8 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+#  - name: Test Broken Site
+#    url: https://thissitedoesnotexist.koj.co
   - name: medicine.duke.edu
     url: https://medicine.duke.edu
 status-website:
