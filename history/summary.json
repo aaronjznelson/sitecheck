@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
     "timeDay": 213,
     "timeWeek": 117,
     "timeMonth": 103,
     "timeYear": 103,
-    "dailyMinutesDown": {
-      "2023-10-10": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
