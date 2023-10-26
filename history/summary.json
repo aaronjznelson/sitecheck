@@ -58,7 +58,7 @@
     "url": "https://medicine.duke.edu",
     "icon": "https://icons.duckduckgo.com/ip3/medicine.duke.edu.ico",
     "slug": "medicine-duke-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
@@ -70,6 +70,7 @@
     "timeMonth": 1320,
     "timeYear": 1153,
     "dailyMinutesDown": {
+      "2023-10-26": 0,
       "2023-10-20": 32,
       "2023-10-06": 96
     }
