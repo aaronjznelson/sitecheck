@@ -40,18 +40,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 376,
-    "timeWeek": 229,
-    "timeMonth": 273,
-    "timeYear": 298,
-    "dailyMinutesDown": {}
+    "time": 299,
+    "timeDay": 349,
+    "timeWeek": 240,
+    "timeMonth": 275,
+    "timeYear": 299,
+    "dailyMinutesDown": {
+      "2023-12-06": 0
+    }
   },
   {
     "name": "medicine.duke.edu",
@@ -66,7 +68,7 @@
     "uptimeYear": "99.85%",
     "time": 955,
     "timeDay": 459,
-    "timeWeek": 510,
+    "timeWeek": 497,
     "timeMonth": 876,
     "timeYear": 955,
     "dailyMinutesDown": {
