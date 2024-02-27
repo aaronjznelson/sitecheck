@@ -1,7 +1,7 @@
 url: https://medicine.duke.edu
-status: down
-code: 502
-responseTime: 92
-lastUpdated: 2024-02-27T15:30:45.257Z
+status: up
+code: 200
+responseTime: 193
+lastUpdated: 2024-02-27T15:41:56.363Z
 startTime: 2023-09-16T05:26:45.003Z
 generator: Upptime <https://github.com/upptime/upptime>
